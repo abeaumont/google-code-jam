@@ -1,7 +1,4 @@
 Google Code Jam Solutions
 =========================
 
-**SPOILER**: Here you will find solutions for `Google Code Jam
-<https://code.google.com/codejam>`_ programming competition.
-
-
+**NOTE**: This is no longer maintained. For a more complete solution set, check `Google Code Jam <https://github.com/abeaumont/competitive-programming/tree/master/codejam>`_ section in my `competitive programming <https://github.com/abeaumont/competitive-programming>`_ repository.
